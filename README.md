@@ -1,2 +1,2 @@
-First file contains notes on dictonaries and basic knowlegde on dictionaries and how to access them
-The second file is a project that uses knowledge on dictionaries to translates digits to words
+Dictionaries in Python programming
+Repository also contains a few projects that are based on dictionaries in Python 
